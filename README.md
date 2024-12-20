@@ -1,3 +1,5 @@
+# Check out the live site here [ProductStore](https://productstore-3k2v.onrender.com/). Please note, the site may take a moment to load as it is hosted on a free trial plan on Render.
+
 # Product Management Feature
 
 This is a sample product management feature developed for an e-commerce platform. It enables users to add, update, and remove products efficiently. The application is built with modern web technologies and incorporates a responsive and user-friendly interface.
